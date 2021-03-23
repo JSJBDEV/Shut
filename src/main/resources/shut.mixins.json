@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "gd.rf.acro.shut.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ShutMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
